@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**KgomotsoMacyy/KgomotsoMacyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KgomotsoMacyy/KgomotsoMacyy** 
 
-Here are some ideas to get you started:
+I am a Software Development student at Codespace Academy. My journey as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I am equipped with the following technologies:**
+• HTML5 
+• CSS3
+• Tailwind CSS
+• JavaScript
+
+**Below are some of the projects I have built thus far**
+• https://venusboutique.netlify.app/
+• https://kgomotso-portfolio.netlify.app/
+
+📞  +27 67 893 8023
+✉   morobanek03@gmail.com / morobanek03@icloud.com
+🌐  https://www.linkedin.com/in/kgomotso-morobane-b57296231/
