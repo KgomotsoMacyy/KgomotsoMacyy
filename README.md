@@ -2,7 +2,7 @@
 **KgomotsoMacyy/KgomotsoMacyy** 
 
 
-I am a Software Development student at Codespace Academy. My journey as a self-taught developer has primed me to quickly acquire and apply new knowledge.
+I am a Junior Software Developer with certifications from Codespace Academy specializing in HTML5, CSS3, JavaScript, TailwindCss, React.js, Alpine.js, Svelte.js, Vue.js. Advancing my passion and interest into JavaScript Frameworks.
 
 
 **I am equipped with the following technologies:**
@@ -27,4 +27,4 @@ I am a Software Development student at Codespace Academy. My journey as a self-t
 
 ✉   morobanek03@gmail.com / morobanek03@icloud.com
 
-🌐  https://www.linkedin.com/in/kgomotso-morobane-b57296231/
+🌐  https://www.linkedin.com/in/kgomotso-morobane/
